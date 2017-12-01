@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MZ_cartao_2" size="200.000000 113.375793" />
+    <ImageTarget name="Turbina02" size="50.000000 45.166668" />
+    <ImageTarget name="_preview_PAINEL_GERDAU" size="50.000000 33.325001" />
+    <ImageTarget name="MZ_CRTs_IBRI_Nomes" size="50.000000 27.222221" />
+  </Tracking>
+</QCARConfig>

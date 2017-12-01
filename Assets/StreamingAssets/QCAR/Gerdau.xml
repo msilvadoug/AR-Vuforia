@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Gerdau_RI2016_EN_8" size="100.000000 23.669468" />
+    <ImageTarget name="painel" size="50.000000 50.000000" />
+    <ImageTarget name="Gerdau_100" size="100.000000 70.695557" />
+    <ImageTarget name="Gerdau_RI2016_EN_5" size="100.000000 92.571060" />
+    <ImageTarget name="Gerdau_RI2016_EN_3TGT" size="1.000000 0.834387" />
+    <ImageTarget name="Gerdau_RI2016_EN4" size="1.000000 0.706956" />
+    <ImageTarget name="Gerdau_RI2016_EN3" size="1.000000 0.706956" />
+    <ImageTarget name="Gerdau_RI2016_EN2" size="1.000000 0.706956" />
+    <ImageTarget name="Gerdau_RI2016_EN" size="1.000000 0.706956" />
+  </Tracking>
+</QCARConfig>

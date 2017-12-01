@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 2927d532a40456347804f40e2334a180
+timeCreated: 1497855921
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: Group001
+    100006: Group002
+    100008: head
+    100010: L_Calf
+    100012: L_Finger0
+    100014: L_Finger005
+    100016: L_Finger006
+    100018: L_Finger007
+    100020: L_Finger008
+    100022: L_Finger009
+    100024: L_Finger01
+    100026: L_Finger02
+    100028: L_Finger03
+    100030: L_Finger04
+    100032: L_Foot
+    100034: L_Forearm
+    100036: L_Forearm001
+    100038: L_Hand
+    100040: L_Hand001
+    100042: L_Thigh
+    100044: L_UpperArm
+    100046: L_UpperArm001
+    100048: Neck
+    100050: Pelvis
+    100052: R_Calf01
+    100054: R_Foot01
+    100056: R_Thigh01
+    400000: //RootNode
+    400002: body
+    400004: Group001
+    400006: Group002
+    400008: head
+    400010: L_Calf
+    400012: L_Finger0
+    400014: L_Finger005
+    400016: L_Finger006
+    400018: L_Finger007
+    400020: L_Finger008
+    400022: L_Finger009
+    400024: L_Finger01
+    400026: L_Finger02
+    400028: L_Finger03
+    400030: L_Finger04
+    400032: L_Foot
+    400034: L_Forearm
+    400036: L_Forearm001
+    400038: L_Hand
+    400040: L_Hand001
+    400042: L_Thigh
+    400044: L_UpperArm
+    400046: L_UpperArm001
+    400048: Neck
+    400050: Pelvis
+    400052: R_Calf01
+    400054: R_Foot01
+    400056: R_Thigh01
+    2300000: body
+    2300002: head
+    2300004: L_Calf
+    2300006: L_Finger0
+    2300008: L_Finger005
+    2300010: L_Finger006
+    2300012: L_Finger007
+    2300014: L_Finger008
+    2300016: L_Finger009
+    2300018: L_Finger01
+    2300020: L_Finger02
+    2300022: L_Finger03
+    2300024: L_Finger04
+    2300026: L_Foot
+    2300028: L_Forearm
+    2300030: L_Forearm001
+    2300032: L_Hand
+    2300034: L_Hand001
+    2300036: L_Thigh
+    2300038: L_UpperArm
+    2300040: L_UpperArm001
+    2300042: Neck
+    2300044: Pelvis
+    2300046: R_Calf01
+    2300048: R_Foot01
+    2300050: R_Thigh01
+    3300000: body
+    3300002: head
+    3300004: L_Calf
+    3300006: L_Finger0
+    3300008: L_Finger005
+    3300010: L_Finger006
+    3300012: L_Finger007
+    3300014: L_Finger008
+    3300016: L_Finger009
+    3300018: L_Finger01
+    3300020: L_Finger02
+    3300022: L_Finger03
+    3300024: L_Finger04
+    3300026: L_Foot
+    3300028: L_Forearm
+    3300030: L_Forearm001
+    3300032: L_Hand
+    3300034: L_Hand001
+    3300036: L_Thigh
+    3300038: L_UpperArm
+    3300040: L_UpperArm001
+    3300042: Neck
+    3300044: Pelvis
+    3300046: R_Calf01
+    3300048: R_Foot01
+    3300050: R_Thigh01
+    4300000: head
+    4300002: Pelvis
+    4300004: body
+    4300006: Neck
+    4300008: L_Calf
+    4300010: L_Thigh
+    4300012: L_Foot
+    4300014: R_Foot01
+    4300016: R_Calf01
+    4300018: R_Thigh01
+    4300020: L_Finger02
+    4300022: L_Finger01
+    4300024: L_Finger03
+    4300026: L_Finger04
+    4300028: L_Hand
+    4300030: L_Forearm
+    4300032: L_Finger0
+    4300034: L_UpperArm
+    4300036: L_Forearm001
+    4300038: L_Finger005
+    4300040: L_Finger006
+    4300042: L_Finger007
+    4300044: L_Finger008
+    4300046: L_Hand001
+    4300048: L_Finger009
+    4300050: L_UpperArm001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

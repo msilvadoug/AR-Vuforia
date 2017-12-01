@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: b8ff19dd230b7424ca1d5862f2ec3d17
+timeCreated: 1497851083
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: blade012
+    100004: blade013
+    100006: blade018
+    100008: blade019
+    100010: blade020
+    100012: blade021
+    100014: blade022
+    100016: blade023
+    100018: Cylinder001
+    100020: Cylinder002
+    100022: Cylinder003
+    100024: Cylinder005
+    100026: Cylinder010
+    100028: Cylinder011
+    100030: Cylinder012
+    100032: Cylinder014
+    100034: Cylinder015
+    100036: Cylinder017
+    100038: Cylinder020
+    100040: Cylinder023
+    100042: Cylinder024
+    100044: Cylinder025
+    100046: lente
+    100048: Line001
+    100050: Object002
+    100052: Object007
+    100054: Object008
+    100056: Object009
+    100058: pa006
+    100060: pa009
+    100062: pa010
+    100064: pa011
+    100066: Plane002
+    100068: Plane003
+    400000: //RootNode
+    400002: blade012
+    400004: blade013
+    400006: blade018
+    400008: blade019
+    400010: blade020
+    400012: blade021
+    400014: blade022
+    400016: blade023
+    400018: Cylinder001
+    400020: Cylinder002
+    400022: Cylinder003
+    400024: Cylinder005
+    400026: Cylinder010
+    400028: Cylinder011
+    400030: Cylinder012
+    400032: Cylinder014
+    400034: Cylinder015
+    400036: Cylinder017
+    400038: Cylinder020
+    400040: Cylinder023
+    400042: Cylinder024
+    400044: Cylinder025
+    400046: lente
+    400048: Line001
+    400050: Object002
+    400052: Object007
+    400054: Object008
+    400056: Object009
+    400058: pa006
+    400060: pa009
+    400062: pa010
+    400064: pa011
+    400066: Plane002
+    400068: Plane003
+    2300000: blade012
+    2300002: blade013
+    2300004: blade018
+    2300006: blade019
+    2300008: blade020
+    2300010: blade021
+    2300012: blade022
+    2300014: blade023
+    2300016: Cylinder001
+    2300018: Cylinder002
+    2300020: Cylinder003
+    2300022: Cylinder005
+    2300024: Cylinder010
+    2300026: Cylinder011
+    2300028: Cylinder012
+    2300030: Cylinder014
+    2300032: Cylinder015
+    2300034: Cylinder017
+    2300036: Cylinder020
+    2300038: Cylinder023
+    2300040: Cylinder024
+    2300042: Cylinder025
+    2300044: Object002
+    2300046: Object007
+    2300048: Object008
+    2300050: Object009
+    2300052: Plane002
+    2300054: Plane003
+    3300000: blade012
+    3300002: blade013
+    3300004: blade018
+    3300006: blade019
+    3300008: blade020
+    3300010: blade021
+    3300012: blade022
+    3300014: blade023
+    3300016: Cylinder001
+    3300018: Cylinder002
+    3300020: Cylinder003
+    3300022: Cylinder005
+    3300024: Cylinder010
+    3300026: Cylinder011
+    3300028: Cylinder012
+    3300030: Cylinder014
+    3300032: Cylinder015
+    3300034: Cylinder017
+    3300036: Cylinder020
+    3300038: Cylinder023
+    3300040: Cylinder024
+    3300042: Cylinder025
+    3300044: Object002
+    3300046: Object007
+    3300048: Object008
+    3300050: Object009
+    3300052: Plane002
+    3300054: Plane003
+    4300000: Plane002
+    4300002: Cylinder011
+    4300004: Cylinder010
+    4300006: blade012
+    4300008: blade013
+    4300010: Cylinder020
+    4300012: blade018
+    4300014: blade019
+    4300016: Cylinder023
+    4300018: blade020
+    4300020: blade021
+    4300022: Cylinder024
+    4300024: Cylinder025
+    4300026: blade022
+    4300028: blade023
+    4300030: Object002
+    4300032: Cylinder012
+    4300034: Object008
+    4300036: Cylinder017
+    4300038: Cylinder014
+    4300040: Cylinder015
+    4300042: Object007
+    4300044: Cylinder005
+    4300046: Cylinder002
+    4300048: Cylinder003
+    4300050: Object009
+    4300052: Cylinder001
+    4300054: Plane003
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Cylinder011
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa006
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa006/blade012
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa006/blade013
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa006/Cylinder020
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa009
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa009/blade018
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa009/blade019
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa009/Cylinder023
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa010
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa010/blade020
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa010/blade021
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa010/Cylinder024
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa011
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa011/blade022
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa011/blade023
+        weight: 1
+      - path: Plane002/Cylinder011/Cylinder010/pa011/Cylinder025
+        weight: 1
+      - path: Plane002/Cylinder014
+        weight: 1
+      - path: Plane002/Cylinder014/Cylinder015
+        weight: 1
+      - path: Plane002/lente
+        weight: 1
+      - path: Plane002/lente/Cylinder001
+        weight: 1
+      - path: Plane002/lente/Cylinder002
+        weight: 1
+      - path: Plane002/lente/Cylinder003
+        weight: 1
+      - path: Plane002/lente/Cylinder005
+        weight: 1
+      - path: Plane002/lente/Object009
+        weight: 1
+      - path: Plane002/Object002
+        weight: 1
+      - path: Plane002/Object002/Cylinder012
+        weight: 1
+      - path: Plane002/Object007
+        weight: 1
+      - path: Plane002/Object008
+        weight: 1
+      - path: Plane002/Object008/Cylinder017
+        weight: 1
+      - path: Plane003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f416167a66658da47b4de2c00510557e
+timeCreated: 1497852543
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: caule
+    100006: caule001
+    100008: caule002
+    100010: caule003
+    100012: caule004
+    100014: caule005
+    100016: caule006
+    100018: caule007
+    100020: floresta
+    100022: Group001
+    100024: Group002
+    100026: Group003
+    100028: Group004
+    100030: Group005
+    100032: Group006
+    100034: Group007
+    100036: Group008
+    100038: Object001
+    100040: Object002
+    100042: Object003
+    100044: Object004
+    100046: Object005
+    100048: Object006
+    100050: Object007
+    100052: Object008
+    100054: Object009
+    100056: Object010
+    100058: Object011
+    100060: Object012
+    100062: Object013
+    100064: Object014
+    100066: Object015
+    100068: Object016
+    100070: Object017
+    100072: Plane001
+    100074: Shape002
+    100076: Shape002_MeshPart0
+    100078: Shape002_MeshPart1
+    100080: Shape003
+    100082: Shape003_MeshPart0
+    100084: Shape003_MeshPart1
+    100086: Shape004
+    100088: Shape004_MeshPart0
+    100090: Shape004_MeshPart1
+    100092: Shape005
+    100094: Shape005_MeshPart0
+    100096: Shape005_MeshPart1
+    100098: Shape006
+    100100: Shape006_MeshPart0
+    100102: Shape006_MeshPart1
+    100104: Shape007
+    100106: Shape007_MeshPart0
+    100108: Shape007_MeshPart1
+    100110: Shape008
+    100112: Shape008_MeshPart0
+    100114: Shape008_MeshPart1
+    100116: Shape1
+    100118: Shape1_MeshPart0
+    100120: Shape1_MeshPart1
+    400000: //RootNode
+    400002: Box001
+    400004: caule
+    400006: caule001
+    400008: caule002
+    400010: caule003
+    400012: caule004
+    400014: caule005
+    400016: caule006
+    400018: caule007
+    400020: floresta
+    400022: Group001
+    400024: Group002
+    400026: Group003
+    400028: Group004
+    400030: Group005
+    400032: Group006
+    400034: Group007
+    400036: Group008
+    400038: Object001
+    400040: Object002
+    400042: Object003
+    400044: Object004
+    400046: Object005
+    400048: Object006
+    400050: Object007
+    400052: Object008
+    400054: Object009
+    400056: Object010
+    400058: Object011
+    400060: Object012
+    400062: Object013
+    400064: Object014
+    400066: Object015
+    400068: Object016
+    400070: Object017
+    400072: Plane001
+    400074: Shape002
+    400076: Shape002_MeshPart0
+    400078: Shape002_MeshPart1
+    400080: Shape003
+    400082: Shape003_MeshPart0
+    400084: Shape003_MeshPart1
+    400086: Shape004
+    400088: Shape004_MeshPart0
+    400090: Shape004_MeshPart1
+    400092: Shape005
+    400094: Shape005_MeshPart0
+    400096: Shape005_MeshPart1
+    400098: Shape006
+    400100: Shape006_MeshPart0
+    400102: Shape006_MeshPart1
+    400104: Shape007
+    400106: Shape007_MeshPart0
+    400108: Shape007_MeshPart1
+    400110: Shape008
+    400112: Shape008_MeshPart0
+    400114: Shape008_MeshPart1
+    400116: Shape1
+    400118: Shape1_MeshPart0
+    400120: Shape1_MeshPart1
+    2300000: Box001
+    2300002: caule
+    2300004: caule001
+    2300006: caule002
+    2300008: caule003
+    2300010: caule004
+    2300012: caule005
+    2300014: caule006
+    2300016: caule007
+    2300018: Object001
+    2300020: Object002
+    2300022: Object003
+    2300024: Object004
+    2300026: Object005
+    2300028: Object006
+    2300030: Object007
+    2300032: Object008
+    2300034: Object009
+    2300036: Object010
+    2300038: Object011
+    2300040: Object012
+    2300042: Object013
+    2300044: Object014
+    2300046: Object015
+    2300048: Object016
+    2300050: Object017
+    2300052: Plane001
+    2300054: Shape002_MeshPart0
+    2300056: Shape002_MeshPart1
+    2300058: Shape003_MeshPart0
+    2300060: Shape003_MeshPart1
+    2300062: Shape004_MeshPart0
+    2300064: Shape004_MeshPart1
+    2300066: Shape005_MeshPart0
+    2300068: Shape005_MeshPart1
+    2300070: Shape006_MeshPart0
+    2300072: Shape006_MeshPart1
+    2300074: Shape007_MeshPart0
+    2300076: Shape007_MeshPart1
+    2300078: Shape008_MeshPart0
+    2300080: Shape008_MeshPart1
+    2300082: Shape1_MeshPart0
+    2300084: Shape1_MeshPart1
+    3300000: Box001
+    3300002: caule
+    3300004: caule001
+    3300006: caule002
+    3300008: caule003
+    3300010: caule004
+    3300012: caule005
+    3300014: caule006
+    3300016: caule007
+    3300018: Object001
+    3300020: Object002
+    3300022: Object003
+    3300024: Object004
+    3300026: Object005
+    3300028: Object006
+    3300030: Object007
+    3300032: Object008
+    3300034: Object009
+    3300036: Object010
+    3300038: Object011
+    3300040: Object012
+    3300042: Object013
+    3300044: Object014
+    3300046: Object015
+    3300048: Object016
+    3300050: Object017
+    3300052: Plane001
+    3300054: Shape002_MeshPart0
+    3300056: Shape002_MeshPart1
+    3300058: Shape003_MeshPart0
+    3300060: Shape003_MeshPart1
+    3300062: Shape004_MeshPart0
+    3300064: Shape004_MeshPart1
+    3300066: Shape005_MeshPart0
+    3300068: Shape005_MeshPart1
+    3300070: Shape006_MeshPart0
+    3300072: Shape006_MeshPart1
+    3300074: Shape007_MeshPart0
+    3300076: Shape007_MeshPart1
+    3300078: Shape008_MeshPart0
+    3300080: Shape008_MeshPart1
+    3300082: Shape1_MeshPart0
+    3300084: Shape1_MeshPart1
+    4300000: Box001
+    4300002: Object017
+    4300004: Object009
+    4300006: Shape005_MeshPart0
+    4300008: Shape005_MeshPart1
+    4300010: Object010
+    4300012: caule004
+    4300014: Object003
+    4300016: Shape002_MeshPart0
+    4300018: Shape002_MeshPart1
+    4300020: Object004
+    4300022: caule001
+    4300024: Object007
+    4300026: Shape004_MeshPart0
+    4300028: Shape004_MeshPart1
+    4300030: Object008
+    4300032: caule003
+    4300034: Object011
+    4300036: Shape006_MeshPart0
+    4300038: Shape006_MeshPart1
+    4300040: Object012
+    4300042: caule005
+    4300044: Object005
+    4300046: Shape003_MeshPart0
+    4300048: Shape003_MeshPart1
+    4300050: Object006
+    4300052: caule002
+    4300054: Object013
+    4300056: Shape007_MeshPart0
+    4300058: Shape007_MeshPart1
+    4300060: Object014
+    4300062: caule006
+    4300064: Object015
+    4300066: Shape008_MeshPart0
+    4300068: Shape008_MeshPart1
+    4300070: Object016
+    4300072: caule007
+    4300074: Shape1_MeshPart0
+    4300076: Shape1_MeshPart1
+    4300078: Object002
+    4300080: caule
+    4300082: Object001
+    4300084: Plane001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: floresta
+        weight: 1
+      - path: floresta/Box001
+        weight: 1
+      - path: floresta/Group001
+        weight: 1
+      - path: floresta/Group001/caule
+        weight: 1
+      - path: floresta/Group001/Object001
+        weight: 1
+      - path: floresta/Group001/Object002
+        weight: 1
+      - path: floresta/Group001/Shape1
+        weight: 1
+      - path: floresta/Group001/Shape1/Shape1_MeshPart0
+        weight: 1
+      - path: floresta/Group001/Shape1/Shape1_MeshPart1
+        weight: 1
+      - path: floresta/Group002
+        weight: 1
+      - path: floresta/Group002/caule001
+        weight: 1
+      - path: floresta/Group002/Object003
+        weight: 1
+      - path: floresta/Group002/Object004
+        weight: 1
+      - path: floresta/Group002/Shape002
+        weight: 1
+      - path: floresta/Group002/Shape002/Shape002_MeshPart0
+        weight: 1
+      - path: floresta/Group002/Shape002/Shape002_MeshPart1
+        weight: 1
+      - path: floresta/Group003
+        weight: 1
+      - path: floresta/Group003/caule002
+        weight: 1
+      - path: floresta/Group003/Object005
+        weight: 1
+      - path: floresta/Group003/Object006
+        weight: 1
+      - path: floresta/Group003/Shape003
+        weight: 1
+      - path: floresta/Group003/Shape003/Shape003_MeshPart0
+        weight: 1
+      - path: floresta/Group003/Shape003/Shape003_MeshPart1
+        weight: 1
+      - path: floresta/Group004
+        weight: 1
+      - path: floresta/Group004/caule003
+        weight: 1
+      - path: floresta/Group004/Object007
+        weight: 1
+      - path: floresta/Group004/Object008
+        weight: 1
+      - path: floresta/Group004/Shape004
+        weight: 1
+      - path: floresta/Group004/Shape004/Shape004_MeshPart0
+        weight: 1
+      - path: floresta/Group004/Shape004/Shape004_MeshPart1
+        weight: 1
+      - path: floresta/Group005
+        weight: 1
+      - path: floresta/Group005/caule004
+        weight: 1
+      - path: floresta/Group005/Object009
+        weight: 1
+      - path: floresta/Group005/Object010
+        weight: 1
+      - path: floresta/Group005/Shape005
+        weight: 1
+      - path: floresta/Group005/Shape005/Shape005_MeshPart0
+        weight: 1
+      - path: floresta/Group005/Shape005/Shape005_MeshPart1
+        weight: 1
+      - path: floresta/Group006
+        weight: 1
+      - path: floresta/Group006/caule005
+        weight: 1
+      - path: floresta/Group006/Object011
+        weight: 1
+      - path: floresta/Group006/Object012
+        weight: 1
+      - path: floresta/Group006/Shape006
+        weight: 1
+      - path: floresta/Group006/Shape006/Shape006_MeshPart0
+        weight: 1
+      - path: floresta/Group006/Shape006/Shape006_MeshPart1
+        weight: 1
+      - path: floresta/Group007
+        weight: 1
+      - path: floresta/Group007/caule006
+        weight: 1
+      - path: floresta/Group007/Object013
+        weight: 1
+      - path: floresta/Group007/Object014
+        weight: 1
+      - path: floresta/Group007/Shape007
+        weight: 1
+      - path: floresta/Group007/Shape007/Shape007_MeshPart0
+        weight: 1
+      - path: floresta/Group007/Shape007/Shape007_MeshPart1
+        weight: 1
+      - path: floresta/Group008
+        weight: 1
+      - path: floresta/Group008/caule007
+        weight: 1
+      - path: floresta/Group008/Object015
+        weight: 1
+      - path: floresta/Group008/Object016
+        weight: 1
+      - path: floresta/Group008/Shape008
+        weight: 1
+      - path: floresta/Group008/Shape008/Shape008_MeshPart0
+        weight: 1
+      - path: floresta/Group008/Shape008/Shape008_MeshPart1
+        weight: 1
+      - path: floresta/Object017
+        weight: 1
+      - path: Plane001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MZ_CRTs_IBRI_Nomes" size="40.000000 21.777779" />
+    <ImageTarget name="Floresta" size="78.000000 38.688690" />
+    <ImageTarget name="Turbina" size="50.000000 45.166668" />
+    <ImageTarget name="_preview_PAINEL_GERDAU" size="150.000000 99.974998" />
+    <ImageTarget name="TurbinaEolica" size="37.000000 26.394905" />
+    <ImageTarget name="PainelSolar" size="30.000000 30.000000" />
+    <ImageTarget name="GraficoQuadro" size="52.000000 17.998642" />
+    <ImageTarget name="GraficoPizza" size="56.000000 32.684826" />
+    <ImageTarget name="Robo" size="42.000000 61.721741" />
+    <ImageTarget name="Drone" size="15.000000 14.936306" />
+    <ImageTarget name="GraficoBarra" size="50.000000 31.923838" />
+  </Tracking>
+</QCARConfig>
